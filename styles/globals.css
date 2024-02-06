@@ -1,0 +1,137 @@
+/* Define Tailwind CSS styles for base, components, and utilities */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* Custom styles for a specific class */
+.translate-z-0 {
+  transform: translateZ(0px);
+}
+
+/* Styling for Swiper pagination bullets */
+.swiper-horizontal > .swiper-pagination-bullets .swiper-pagination-bullet,
+.swiper-pagination-horizontal.swiper-pagination-bullets .swiper-pagination-bullet {
+  background-color: #f13024;
+}
+
+/* Styling for Swiper navigation buttons */
+.swiper-button-next:after,
+.swiper-button-prev:after,
+.swiper-button-next:after,
+.swiper-rtl .swiper-button-prev:after {
+  color: #f13024;
+}
+
+/* Define base layer styles using @layer directive */
+@layer base {
+  body {
+    @apply bg-secondary overflow-hidden leading-relaxed;
+  }
+  .page {
+    @apply w-full h-screen overflow-hidden max-lg:overflow-auto max-sm:overflow-hidden;
+  }
+  .h1 {
+    @apply text-[35px] leading-tight md:text-[60px] md:leading-[1.3] mb-8 font-semibold;
+  }
+  .h2 {
+    @apply text-[35px] leading-tight md:text-[54px] md:leading-[1.3] mb-4 font-semibold;
+  }
+  p {
+    @apply leading-[1.8] text-white/60 font-light;
+  }
+  .btn,
+  .input {
+    @apply h-[52px];
+  }
+  .input {
+    @apply w-full h-[52px] rounded-lg pl-6 capitalize;
+  }
+  .input,
+  .textarea {
+    @apply bg-transparent outline-none focus:ring-1 focus:ring-accent border border-white/20 placeholder:text-white/30 placeholder:font-light;
+  }
+  .textarea {
+    @apply w-full h-[180px] p-6 capitalize rounded-lg resize-none;
+  }
+  .text-orange {
+    @apply text-[#ffa200];
+  }
+}
+/* Media query for screens with a minimum width of 1200px */
+@media screen and (min-width: 1200px) {
+  /* Custom navigation styles on hover */
+  .custom-nav:hover .custom-drawer {
+    width: 130px;
+  }
+  .custom-nav:hover .custom-draw {
+    display: flex;
+  }
+}
+/* Custom navigation styles on link hover */
+.custom-nav a:hover .custom-text {
+  color: #ffa200;
+}
+.custom-nav a:hover .custom-draw {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+/* Animation styles for an icon wrapper */
+.icon-wrapper-animate svg {
+  width: 1em;
+  height: 1em;
+  fill: none;
+  stroke: #fff;
+  stroke-width: 25;
+  stroke-dasharray: 5000;
+  stroke-dashoffset: 5000;
+  animation: draw 3s ease-in-out infinite;
+  -webkit-animation: draw 3s ease-in-out infinite;
+}
+
+/* Keyframes animation for drawing an icon */
+@keyframes draw {
+  to {
+    stroke-dashoffset: 0;
+    stroke: none;
+    fill: #fff;
+  }
+}
+/* Styles for a static icon wrapper */
+.icon-wrapper svg {
+  width: 2em;
+  height: 2em;
+  fill: #fff;
+}
+
+/* Image transition styles */
+.img-src {
+  transition: opacity 0.5s ease-in-out;
+  -webkit-transition: opacity 0.5s ease-in-out;
+  -moz-transition: opacity 0.5s ease-in-out;
+  -ms-transition: opacity 0.5s ease-in-out;
+  -o-transition: opacity 0.5s ease-in-out;
+}
+
+/* Styles for transitioning elements with opacity */
+.transitioning {
+  opacity: 0;
+  transition: opacity 0.5s ease-in-out;
+  -webkit-transition: opacity 0.5s ease-in-out;
+  -moz-transition: opacity 0.5s ease-in-out;
+  -ms-transition: opacity 0.5s ease-in-out;
+  -o-transition: opacity 0.5s ease-in-out;
+}
+
+/* Styles for Swiper component */
+.swiper {
+  z-index: 20 !important;
+}
+
+/* Styles for a counter grid */
+.counter-grid {
+  position: relative;
+  flex: 1 1 0;
+  /* Border for all elements except the last one */
+}
+.counter-grid:not(:last-child) {
+  border-right: rgba(255, 255, 255, 0.1254901961) 2px solid;
+}/*# sourceMappingURL=globals.css.map */

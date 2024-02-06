@@ -1,0 +1,1 @@
+$(document).ready(function(){setInterval('updateClock()',1e3)});function updateClock(){var e=new Date,t=e.getHours(),o=e.getMinutes(),n=e.getSeconds();o=(o<10?"0":"")+o,n=(n<10?"0":"")+n;var r=t+":"+o+":"+n;$("#clock").html(r)}

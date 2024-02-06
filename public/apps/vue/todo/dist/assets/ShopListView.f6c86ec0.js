@@ -1,0 +1,1 @@
+import{n as t,V as s}from"./index.fb114b49.js";const _={components:{ViewLayout:s}};var o=function(){var n=this,e=n._self._c;return e("div",{staticClass:"layout-wrapper"},[e("ViewLayout")],1)},a=[],r=t(_,o,a,!1,null,null,null,null);const c=r.exports;export{c as default};

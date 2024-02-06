@@ -1,0 +1,1 @@
+import{n as s,V as t}from"./index.04e90a82.js";const a={components:{ViewLayout:t}};var _=function(){var n=this,e=n._self._c;return e("div",{staticClass:"layout-wrapper"},[e("ViewLayout")],1)},o=[],r=s(a,_,o,!1,null,null,null,null);const i=r.exports;export{i as default};

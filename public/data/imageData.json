@@ -1,0 +1,10 @@
+[
+    { "id": 0, "src": "../creativity/insurence.png", "w": 800, "h": 550 },
+    { "id": 1, "src": "../creativity/invest.png", "w": 800, "h": 550 },
+    { "id": 2, "src": "../creativity/join.png", "w": 800, "h": 800 },
+    { "id": 3, "src": "../creativity/money.png", "w": 550, "h": 800 },
+    { "id": 4, "src": "../creativity/retirement.png", "w": 800, "h": 800 },
+    { "id": 5, "src": "../creativity/retirementplan.png", "w": 600, "h": 800 },
+    { "id": 6, "src": "../creativity/shaking.png", "w": 800, "h": 550 },
+    { "id": 7, "src": "../creativity/success.png", "w": 800, "h": 550 }
+]

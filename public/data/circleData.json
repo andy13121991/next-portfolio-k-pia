@@ -1,0 +1,49 @@
+{
+    "linkDatas": [
+        {
+        "imgPath": "/svg/phone.svg",
+        "linkPath": "tel:+421908875392",
+        "color": "#00ff00"
+        },
+        {
+        "imgPath": "/svg/gmail.svg",
+        "linkPath": "mailto:adrian.kmeto@gmail.com",
+        "color": "#fbc02d"
+        },
+        {
+        "imgPath": "/svg/facebook.svg",
+        "linkPath": "https://www.facebook.com/adrian.kmeto13/",
+        "color": "#039be5"
+        },
+        {
+        "imgPath": "/svg/insta.svg",
+        "linkPath": "https://www.instagram.com/andy13121991/",
+        "color": "#f50057"
+        },
+        {
+        "imgPath": "/svg/whatsup.svg",
+        "linkPath": "https://wa.me/+421908875392",
+        "color": "#40c351"
+        },
+        {
+        "imgPath": "/svg/telegram.svg",
+        "linkPath": "https://t.me/+421908875392",
+        "color": "#29b6f6"
+        },
+        {
+        "imgPath": "/svg/linkedin.svg",
+        "linkPath": "https://www.linkedin.com/in/adrian-kmeto-223038153/",
+        "color": "#0288d1"
+        },
+        {
+        "imgPath": "/svg/twitter.svg",
+        "linkPath": "https://twitter.com/andy3331312",
+        "color": "#03a9f4"
+        },
+        {
+        "imgPath": "/svg/githubwhite.svg",
+        "linkPath": "https://github.com/andy13121991?tab=repositories",
+        "color": "#333"
+        }
+    ]
+}
