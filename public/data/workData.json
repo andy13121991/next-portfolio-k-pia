@@ -2,140 +2,145 @@
     {
         "title": "webs",
         "slides": [
-        {
-            "images": [
             {
-                "title": "financialAdvisor",
-                "path": "/thumbs/Thumb9.png",
-                "link": ""
+                "images": [
+                    {
+                        "title": "financialAdvisor",
+                        "path": "/thumbs/Thumb9.png",
+                        "link": "https://veronikajaraba-financie.sk/"
+                    },
+                    {
+                        "title": "old domain",
+                        "path": "/thumbs/Thumb2.png",
+                        "link": "http://infinityandbeyondspace.store/"
+                    },
+                    {
+                        "title": "to do app",
+                        "path": "/thumbs/Thumb3.png",
+                        "link": "https://vercel.com/andrew-wesley-king-s-projects/todo-bt"
+                    },
+                    {
+                        "title": "bet app",
+                        "path": "/thumbs/Thumb4.png",
+                        "link": "https://vercel.com/andrew-wesley-king-s-projects/bet-app"
+                    }
+                ]
             },
             {
-                "title": "old domain",
-                "path": "/thumbs/Thumb2.png",
-                "link": "http://infinityandbeyondspace.store/"
-            },
-            {
-                "title": "to do app",
-                "path": "/thumbs/Thumb3.png",
-                "link": "https://vercel.com/andrew-wesley-king-s-projects/todo-bt"
-            },
-            {
-                "title": "bet app",
-                "path": "/thumbs/Thumb4.png",
-                "link": "https://vercel.com/andrew-wesley-king-s-projects/bet-app"
+                "images": [
+                    {
+                        "title": "weather app",
+                        "path": "/thumbs/Thumb7.png",
+                        "link": "https://vercel.com/andrew-wesley-king-s-projects/weather-app-k-pia"
+                    },
+                    {
+                        "title": "jMobile",
+                        "path": "/thumbs/Thumb6.png",
+                        "link": "https://infinityandbeyondspace.store/apps/jQueryMobile/index.php"
+                    },
+                    {
+                        "title": "iSearch",
+                        "path": "/thumbs/Thumb1.png",
+                        "link": "https://vercel.com/andrew-wesley-king-s-projects/vue-tunes"
+                    },
+                    {
+                        "title": "activity",
+                        "path": "/thumbs/Thumb5.png",
+                        "link": "https://vercel.com/andrew-wesley-king-s-projects/activities"
+                    }
+                ]
             }
-            ]
-        },
-        {
-            "images": [
-            {
-                "title": "weather app",
-                "path": "/thumbs/Thumb7.png",
-                "link": "https://vercel.com/andrew-wesley-king-s-projects/weather-app-k-pia"
-            },
-            {
-                "title": "jMobile",
-                "path": "/thumbs/Thumb6.png",
-                "link": "https://infinityandbeyondspace.store/apps/jQueryMobile/index.php"
-            },
-            {
-                "title": "iSearch",
-                "path": "/thumbs/Thumb1.png",
-                "link": "https://vercel.com/andrew-wesley-king-s-projects/vue-tunes"
-            },
-            {
-                "title": "activity",
-                "path": "/thumbs/Thumb5.png",
-                "link": "https://vercel.com/andrew-wesley-king-s-projects/activities"
-            }
-            ]
-        }
         ]
     },
     {
         "title": "propagation",
         "slides": [
-        {
-            "images": [
             {
-                "title": "ashley",
-                "path": "/propagation/alex1.png",
-                "link": "https://www.instagram.com/ashley.alexis.foster/"
-            },
-            {
-                "title": "vivian",
-                "path": "/propagation/vivian1.png",
-                "link": "https://www.instagram.com/vivian.grace.foster/"
+                "images": [
+                    {
+                        "title": "ashley",
+                        "path": "/propagation/alex1.png",
+                        "link": "https://www.instagram.com/ashley.alexis.foster/"
+                    },
+                    {
+                        "title": "vivian",
+                        "path": "/propagation/vivian1.png",
+                        "link": "https://www.instagram.com/vivian.grace.foster/"
+                    },
+                    {
+                        "title": "kaca",
+                        "path": "/propagation/kaca1.png",
+                        "link": "https://www.instagram.com/veronika.jaraba_official/"
+                    }
+                ]
             }
-            ]
-        }
         ]
     },
     {
         "title": "games",
         "slides": [
-        {
-            "images": [
             {
-                "title": "",
-                "path": "",
-                "link": ""
+                "images": [
+                    {
+                        "title": "",
+                        "path": "",
+                        "link": ""
+                    }
+                ]
             }
-            ]
-        }
         ]
     },
     {
         "title": "creativity",
         "slides": [
-        {
-            "images": [
             {
-                "id": 0,
-                "path": "/creativity/insurence.png",
-                "link": "/creativity/insurence.png"
+                "images": [
+                    {
+                        "id": 0,
+                        "path": "/creativity/insurence.png",
+                        "link": "/creativity/insurence.png"
+                    },
+                    {
+                        "id": 1,
+                        "path": "/creativity/invest.png",
+                        "link": "/creativity/invest.png"
+                    },
+                    {
+                        "id": 2,
+                        "path": "/creativity/join.png",
+                        "link": "/creativity/join.png"
+                    },
+                    {
+                        "id": 3,
+                        "path": "/creativity/money.png",
+                        "link": "/creativity/money.png"
+                    }
+                ]
             },
             {
-                "id": 1,
-                "path": "/creativity/invest.png",
-                "link": "/creativity/invest.png"
-            },
-            {
-                "id": 2,
-                "path": "/creativity/join.png",
-                "link": "/creativity/join.png"
-            },
-            {
-                "id": 3,
-                "path": "/creativity/money.png",
-                "link": "/creativity/money.png"
+                "images": [
+                    {
+                        "id": 4,
+                        "path": "/creativity/retirement.png",
+                        "link": "/creativity/retirement.png"
+                    },
+                    {
+                        "id": 5,
+                        "path": "/creativity/retirementplan.png",
+                        "link": "/creativity/retirementplan.png"
+                    },
+                    {
+                        "id": 6,
+                        "path": "/creativity/shaking.png",
+                        "link": "/creativity/shaking.png"
+                    },
+                    {
+                        "id": 7,
+                        "path": "/creativity/success.png",
+                        "link": "/creativity/success.png"
+                    }
+                ]
             }
-            ]
-        },
-        {
-            "images": [
-            {
-                "id": 4,
-                "path": "/creativity/retirement.png",
-                "link": "/creativity/retirement.png"
-            },
-            {
-                "id": 5,
-                "path": "/creativity/retirementplan.png",
-                "link": "/creativity/retirementplan.png"
-            },
-            {
-                "id": 6,
-                "path": "/creativity/shaking.png",
-                "link": "/creativity/shaking.png"
-            },
-            {
-                "id": 7,
-                "path": "/creativity/success.png",
-                "link": "/creativity/success.png"
-            }
-            ]
-        }
         ]
     }
 ]
