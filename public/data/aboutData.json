@@ -2,303 +2,324 @@
     {
         "title": "skills",
         "info": [
-        {
-            "name": "html",
-            "icons": "/svg/html.svg",
-            "skill": 95,
-            "anim": true
-        },
-        {
-            "name": "css",
-            "icons": "/svg/css.svg",
-            "skill": 95,
-            "anim": true
-        },
-        {
-            "name": "javascript",
-            "icons": "/svg/js.svg",
-            "skill": 90,
-            "anim": true
-        },
-        {
-            "name": "sass",
-            "icons": "/svg/sass.svg",
-            "skill": 90,
-            "anim": true
-        },
-        {
-            "name": "vue",
-            "icons": "/svg/vue.svg",
-            "skill": 85,
-            "anim": true
-        },
-        {
-            "name": "vuex",
-            "icons": "/svg/vuex.svg",
-            "skill": 80,
-            "anim": true
-        },
-        {
-            "name": "pinia",
-            "icons": "/svg/pinia.svg",
-            "skill": 80,
-            "anim": true
-        },
-        {
-            "name": "react",
-            "icons": "/svg/react.svg",
-            "skill": 85,
-            "anim": true
-        },
-        {
-            "name": "next",
-            "icons": "/svg/next.svg",
-            "skill": 80,
-            "anim": false
-        },
-        {
-            "name": "angular",
-            "icons": "/svg/angular.svg",
-            "skill": 80,
-            "anim": true
-        },
-        {
-            "name": "git",
-            "icons": "/svg/git.svg",
-            "skill": 90,
-            "anim": true
-        },
-        {
-            "name": "sql",
-            "icons": "/svg/sql.svg",
-            "skill": 80,
-            "anim": false
-        },
-        {
-            "name": "tailwind",
-            "icons": "/svg/tailwind.svg",
-            "skill": 90,
-            "anim": false
-        },
-        {
-            "name": "svelte",
-            "icons": "/svg/svelte.svg",
-            "skill": 80,
-            "anim": false
-        },
-        {
-            "name": "php",
-            "icons": "/svg/php.svg",
-            "skill": 85,
-            "anim": true
-        },
-        {
-            "name": "laravel",
-            "icons": "/svg/laravel.svg",
-            "skill": 85,
-            "anim": true
-        },
-        {
-            "name": "ionic",
-            "icons": "/svg/ionic.svg",
-            "skill": 80,
-            "anim": false
-        },
-        {
-            "name": "bootstrap",
-            "icons": "/svg/bootstrap.svg",
-            "skill": 85,
-            "anim": true
-        },
-        {
-            "name": "bulma",
-            "icons": "/svg/bulma.svg",
-            "skill": 85,
-            "anim": false
-        },
-        {
-            "name": "jquery",
-            "icons": "/svg/jquery.svg",
-            "skill": 90,
-            "anim": false
-        },
-        {
-            "name": "unity engine",
-            "icons": "/svg/unity.svg",
-            "skill": 70,
-            "anim": true
-        },
-        {
-            "name": "unreal engine",
-            "icons": "/svg/unreal.svg",
-            "skill": 70,
-            "anim": false
-        },
-        {
-            "name": "canva",
-            "icons": "/svg/canva.svg",
-            "skill": 90,
-            "anim": false
-        },
-        {
-            "name": "figma",
-            "icons": "/svg/figma.svg",
-            "skill": 80,
-            "anim": true
-        },
-        {
-            "name": "photoshop",
-            "icons": "/svg/photoshop.svg",
-            "skill": 80,
-            "anim": false
-        },
-        {
-            "name": "ms",
-            "icons": "/svg/ms.svg",
-            "skill": 85,
-            "anim": false
-        },
-        {
-            "name": "investing",
-            "icons": "/svg/stock.svg",
-            "skill": 90,
-            "anim": true
-        }
+            {
+                "name": "html",
+                "icons": "/svg/html.svg",
+                "skill": 95,
+                "anim": true
+            },
+            {
+                "name": "css",
+                "icons": "/svg/css.svg",
+                "skill": 95,
+                "anim": true
+            },
+            {
+                "name": "javascript",
+                "icons": "/svg/js.svg",
+                "skill": 90,
+                "anim": true
+            },
+            {
+                "name": "sass",
+                "icons": "/svg/sass.svg",
+                "skill": 90,
+                "anim": true
+            },
+            {
+                "name": "vue",
+                "icons": "/svg/vue.svg",
+                "skill": 85,
+                "anim": true
+            },
+            {
+                "name": "vuex",
+                "icons": "/svg/vuex.svg",
+                "skill": 80,
+                "anim": true
+            },
+            {
+                "name": "pinia",
+                "icons": "/svg/pinia.svg",
+                "skill": 80,
+                "anim": true
+            },
+            {
+                "name": "react",
+                "icons": "/svg/react.svg",
+                "skill": 85,
+                "anim": true
+            },
+            {
+                "name": "next",
+                "icons": "/svg/next.svg",
+                "skill": 80,
+                "anim": false
+            },
+            {
+                "name": "angular",
+                "icons": "/svg/angular.svg",
+                "skill": 80,
+                "anim": true
+            },
+            {
+                "name": "git",
+                "icons": "/svg/git.svg",
+                "skill": 90,
+                "anim": true
+            },
+            {
+                "name": "sql",
+                "icons": "/svg/sql.svg",
+                "skill": 80,
+                "anim": false
+            },
+            {
+                "name": "tailwind",
+                "icons": "/svg/tailwind.svg",
+                "skill": 90,
+                "anim": false
+            },
+            {
+                "name": "svelte",
+                "icons": "/svg/svelte.svg",
+                "skill": 80,
+                "anim": false
+            },
+            {
+                "name": "php",
+                "icons": "/svg/php.svg",
+                "skill": 85,
+                "anim": true
+            },
+            {
+                "name": "laravel",
+                "icons": "/svg/laravel.svg",
+                "skill": 85,
+                "anim": true
+            },
+            {
+                "name": "ionic",
+                "icons": "/svg/ionic.svg",
+                "skill": 80,
+                "anim": false
+            },
+            {
+                "name": "bootstrap",
+                "icons": "/svg/bootstrap.svg",
+                "skill": 85,
+                "anim": true
+            },
+            {
+                "name": "bulma",
+                "icons": "/svg/bulma.svg",
+                "skill": 85,
+                "anim": false
+            },
+            {
+                "name": "jquery",
+                "icons": "/svg/jquery.svg",
+                "skill": 90,
+                "anim": false
+            },
+            {
+                "name": "unity engine",
+                "icons": "/svg/unity.svg",
+                "skill": 70,
+                "anim": true
+            },
+            {
+                "name": "unreal engine",
+                "icons": "/svg/unreal.svg",
+                "skill": 70,
+                "anim": false
+            },
+            {
+                "name": "canva",
+                "icons": "/svg/canva.svg",
+                "skill": 90,
+                "anim": false
+            },
+            {
+                "name": "figma",
+                "icons": "/svg/figma.svg",
+                "skill": 80,
+                "anim": true
+            },
+            {
+                "name": "photoshop",
+                "icons": "/svg/photoshop.svg",
+                "skill": 80,
+                "anim": false
+            },
+            {
+                "name": "ms",
+                "icons": "/svg/ms.svg",
+                "skill": 85,
+                "anim": false
+            },
+            {
+                "name": "investing",
+                "icons": "/svg/stock.svg",
+                "skill": 90,
+                "anim": true
+            }
         ]
     },
     {
         "title": "certificates",
         "info": [
-        {
-            "src": "/certificates/certificate(1).png"
-        },
-        {
-            "src": "/certificates/certificate(2).png"
-        },
-        {
-            "src": "/certificates/certificate(3).png"
-        },
-        {
-            "src": "/certificates/certificate(4).png"
-        },
-        {
-            "src": "/certificates/certificate(5).png"
-        },
-        {
-            "src": "/certificates/certificate(6).png"
-        },
-        {
-            "src": "/certificates/certificate(7).png"
-        },
-        {
-            "src": "/certificates/certificate(8).png"
-        },
-        {
-            "src": "/certificates/certificate(9).png"
-        },
-        {
-            "src": "/certificates/certificate(10).png"
-        },
-        {
-            "src": "/certificates/certificate(11).png"
-        },
-        {
-            "src": "/certificates/certificate(12).png"
-        },
-        {
-            "src": "/certificates/certificate(13).png"
-        },
-        {
-            "src": "/certificates/certificate(14).png"
-        },
-        {
-            "src": "/certificates/certificate(15).png"
-        },
-        {
-            "src": "/certificates/certificate(16).jpg"
-        },
-        {
-            "src": "/certificates/certificate(17).png"
-        },
-        {
-            "src": "/certificates/certificate(18).png"
-        },
-        {
-            "src": "/certificates/certificate(19).png"
-        },
-        {
-            "src": "/certificates/certificate(20).png"
-        },
-        {
-            "src": "/certificates/certificate(21).png"
-        }
+            {
+                "src": "/certificates/certificate(1).png"
+            },
+            {
+                "src": "/certificates/certificate(2).png"
+            },
+            {
+                "src": "/certificates/certificate(3).png"
+            },
+            {
+                "src": "/certificates/certificate(4).png"
+            },
+            {
+                "src": "/certificates/certificate(5).png"
+            },
+            {
+                "src": "/certificates/certificate(6).png"
+            },
+            {
+                "src": "/certificates/certificate(7).png"
+            },
+            {
+                "src": "/certificates/certificate(8).png"
+            },
+            {
+                "src": "/certificates/certificate(9).png"
+            },
+            {
+                "src": "/certificates/certificate(10).png"
+            },
+            {
+                "src": "/certificates/certificate(11).png"
+            },
+            {
+                "src": "/certificates/certificate(12).png"
+            },
+            {
+                "src": "/certificates/certificate(13).png"
+            },
+            {
+                "src": "/certificates/certificate(14).png"
+            },
+            {
+                "src": "/certificates/certificate(15).png"
+            },
+            {
+                "src": "/certificates/certificate(16).jpg"
+            },
+            {
+                "src": "/certificates/certificate(17).png"
+            },
+            {
+                "src": "/certificates/certificate(18).png"
+            },
+            {
+                "src": "/certificates/certificate(19).png"
+            },
+            {
+                "src": "/certificates/certificate(20).png"
+            },
+            {
+                "src": "/certificates/certificate(21).png"
+            },
+            {
+                "src": "/certificates/certificate(22).png"
+            },
+            {
+                "src": "/certificates/certificate(23).png"
+            },
+            {
+                "src": "/certificates/certificate(24).png"
+            },
+            {
+                "src": "/certificates/certificate(25).png"
+            },
+            {
+                "src": "/certificates/certificate(26).png"
+            }
         ]
     },
     {
         "title": "experience",
         "info": [
-        {
-            "title": "Front-end developer - freelancer",
-            "desc": "Worked with HTML, CSS, JS, Angular, Vue, Svelte, React, Git, SQL, PHP, Laravel, Ionic and etc.",
-            "location": "Vrable, Slovakia",
-            "stage": "2022 - now"
-        },
-        {
-            "title": "Team leader - McDonald's",
-            "desc": "Worked with team, team building, McDrive, customer orders, product marketing, and etc.",
-            "location": "Schlieren, Switzerland",
-            "stage": "2021 - 2022"
-        },
-        {
-            "title": "Shop assistant - Valora",
-            "desc": "Collaborate with customers and employees. Filling products, making orders from warehouse.",
-            "location": "Schlieren, Switzerland",
-            "stage": "2020 - 2021"
-        },
-        {
-            "title": "Construction worker - More companies",
-            "desc": "Collaborate with customers and employees. Filling products, making orders from warehouse.",
-            "location": "Zurich, Switzerland",
-            "stage": "2019 - 2020"
-        },
-        {
-            "title": "Soldier - OSSR",
-            "desc": "Improved better discipline, flexibility, team building, team leading and much more.",
-            "location": "Martin, Slovakia",
-            "stage": "2019 - (3 months)"
-        },
-        {
-            "title": "Station dispatcher - ŽSR",
-            "desc": "Learnt rules and laws about team leading, operations and leads of the stations.",
-            "location": "Viglas, Slovakia",
-            "stage": "2016 - 2019"
-        },
-        {
-            "title": "And more before..."
-        }
+            {
+                "title": "Front-end developer - HDTS",
+                "desc": "Worked with HTML, CSS, SASS, JS, Angular, Bootstrap, Jquery, Git, SQL, PHP and etc.",
+                "location": "Stupava, Slovakia",
+                "stage": "2022 - 2024"
+            },
+            {
+                "title": "Front-end developer - freelancer",
+                "desc": "Worked with HTML, CSS, JS, Angular, Vue, Svelte, React, Git, SQL, PHP, Laravel, Ionic and etc.",
+                "location": "Vrable, Slovakia",
+                "stage": "2022 - 2024"
+            },
+            {
+                "title": "Team leader - McDonald's",
+                "desc": "Worked with team, team building, McDrive, customer orders, product marketing, and etc.",
+                "location": "Schlieren, Switzerland",
+                "stage": "2021 - 2022"
+            },
+            {
+                "title": "Shop assistant - Valora",
+                "desc": "Collaborate with customers and employees. Filling products, making orders from warehouse.",
+                "location": "Schlieren, Switzerland",
+                "stage": "2020 - 2021"
+            },
+            {
+                "title": "Construction worker - More companies",
+                "desc": "Collaborate with customers and employees. Filling products, making orders from warehouse.",
+                "location": "Zurich, Switzerland",
+                "stage": "2019 - 2020"
+            },
+            {
+                "title": "Soldier - OSSR",
+                "desc": "Improved better discipline, flexibility, team building, team leading and much more.",
+                "location": "Martin, Slovakia",
+                "stage": "2019 - (3 months)"
+            },
+            {
+                "title": "Station dispatcher - ŽSR",
+                "desc": "Learnt rules and laws about team leading, operations and leads of the stations.",
+                "location": "Viglas, Slovakia",
+                "stage": "2016 - 2019"
+            },
+            {
+                "title": "And more before..."
+            }
         ]
     },
     {
         "title": "credentials",
         "info": [
-        {
-            "title": "Skillmea",
-            "desc": "All certificates",
-            "location": "Bratislava, Slovakia",
-            "stage": "2023"
-        },
-        {
-            "title": "Industrial High School and transport",
-            "desc": "Economy and transport operation",
-            "location": "Zvolen, Slovakia",
-            "stage": "2012"
-        },
-        {
-            "title": "4th. Basic School",
-            "desc": "",
-            "location": "Ziar nad Hronom, Slovakia",
-            "stage": "2007"
-        }
+            {
+                "title": "Skillmea",
+                "desc": "All certificates",
+                "location": "Bratislava, Slovakia",
+                "stage": "2023"
+            },
+            {
+                "title": "Industrial High School and transport",
+                "desc": "Economy and transport operation",
+                "location": "Zvolen, Slovakia",
+                "stage": "2012"
+            },
+            {
+                "title": "4th. Basic School",
+                "desc": "",
+                "location": "Ziar nad Hronom, Slovakia",
+                "stage": "2007"
+            }
         ]
     }
 ]
